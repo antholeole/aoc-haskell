@@ -1,0 +1,9 @@
+packages: .
+
+package aoc2024
+  ghc-options: -j
+
+jobs: $ncpus
+test-show-details: direct
+
+index-state: 2024-11-29T07:03:22Z
